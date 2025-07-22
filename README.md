@@ -1,6 +1,6 @@
 # 🎬 Movie Landing Page
 
-A visually appealing and interactive **Movie Landing Page** built using **HTML, CSS, and JavaScript**, featuring a modern responsive design and a smooth slider animation. This project showcases popular movies and series with a dynamic, user-friendly interface.
+A visually appealing and interactive **Movie Landing Page** built using **Front End Development**, featuring a modern responsive design and a smooth slider animation. This project showcases popular movies and series with a dynamic, user-friendly interface.
 
 ---
 
